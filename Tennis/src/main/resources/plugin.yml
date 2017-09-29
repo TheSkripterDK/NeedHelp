@@ -1,0 +1,7 @@
+name: Tennis
+version: 1.0
+main: me.danilkp1234.tennis.Tennis
+authors: [danilkp1234]
+commands:
+  tennis:
+    aliases: [sky, game]
